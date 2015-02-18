@@ -1,0 +1,4 @@
+/lib/systemd/system/droid-battery-monitor.service
+/boot/update-binary
+/boot/hybris-updater-script
+/boot/hybris-updater-unpack.sh
